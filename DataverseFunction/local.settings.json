@@ -1,0 +1,11 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+    "SecretValue": "[ENTER YOUR SPN SECRET VALUE HERE]",
+    "AppID": "[ENTER YOUR SPN APPLICATION ID HERE ]",
+    "InstanceUri": "https://[ENTER YOUR DATAVERSE ORG HERE].crm#.dynamics.com"
+
+  }
+}
